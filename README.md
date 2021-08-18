@@ -1,5 +1,5 @@
 <b>VENBLOX</b>
-<p>hey! we are a new roblox related website that is in the works. We will update slowly so please be patient! thank you - Jaymes</p>
+<h2>hey! we are a new roblox related website that is in the works. We will update slowly so please be patient! thank you - Jaymes</h2>
 <ul>
 <li>here you can</li>
 <li>have fun</li>
