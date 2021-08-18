@@ -8,3 +8,33 @@
 <li>make friends</li>
 <li>and much much more</li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:jaymesover@gmail.com?subject=support&body=contact me">Contact me here</a>
